@@ -3,14 +3,13 @@
       "username": "root",
       "password": "password",
       "database": "ecommerce",
-      "host": "localhost",
+      "host": "https://dollminatrix-api.herokuapp.com/",
       "dialect": "mysql"
     },
     "test": {
       "username": "root",
       "password": null,
       "database": "database_test",
-      "host": "127.0.0.1",
       "dialect": "mysql"
     },
     "production": {
